@@ -1,9 +1,10 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi, I'm Jeremy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+I am a technology nerd who has been passionate about tech my entire life. I graduated with a degree in physics, but my love for coding in college led me to shift my career path. I am dedicated to self-improvement and continuous learning. When I'm not in front of my computer, I enjoy working out and playing board games.
+
+Looking for a team where I can continue to develop my abilities. I've developed my frontend skills (HTML/CSS, React.js, TypeScript) over the past couple of years. Prior to learning full-stack, my experience was in STEM projects, mostly using Python and C++. My favorite language is the one I’ve used most recently.
 
 <p align='center'>
-  <!-- <a href="https://github.com/sponsors/jeremybadger">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
-  </a>&nbsp;&nbsp; -->
   <a href="https://www.linkedin.com/in/jeremybadger/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -11,15 +12,13 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbadge&show_icons=true&locale=en&layout=compact&hide=python,c,objective-c" alt="jbadge" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbadge&show_icons=true&locale=en" alt="jbadge" width="350" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbadge&show_icons=true&locale=en" alt="jbadge" width="350" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbadge&" alt="jbadge" width="350" /></p>
 
 ## Languages and Tools
 
-<div>
-
-### Languages:
+### Languages
 
 #### Frontend
 
