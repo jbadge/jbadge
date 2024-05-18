@@ -7,7 +7,7 @@ Looking for a team where I can continue to develop my abilities. I've developed 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jeremybadger/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbadge&show_icons=true&locale=en&layout=compact&hide=python,c,objective-c" alt="jbadge" /></p>
