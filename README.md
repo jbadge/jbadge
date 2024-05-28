@@ -12,12 +12,13 @@ Looking for a team where I can continue to develop my abilities. I've developed 
 
 <p align="center">
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbadge&show_icons=true&locale=en&layout=compact&hide=python,c,objective-c" alt="jbadge" />
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbadge&show_icons=true&locale=en&rank_icon=github" alt="jbadge" width="396" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbadge&show_icons=true&locale=en&layout=compact&hide=python,c,objective-c" alt="jbadge" width="300" />
 </span></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbadge&" alt="jbadge" width="350" /></p>
+<p align="center">
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbadge&show_icons=true&locale=en&rank_icon=github" alt="jbadge" width="300" />
+</span></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbadge&" alt="jbadge" width="300" /></p>
 
 ## Languages and Tools
 
