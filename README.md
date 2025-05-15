@@ -1,6 +1,6 @@
 ### Hi, I'm Jeremy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I am a technology nerd who has been passionate about tech my entire life. I graduated with a degree in physics, but my love for coding in college led me to shift my career path. I am dedicated to self-improvement and continuous learning. When I'm not in front of my computer, I enjoy working out and playing board games.
+I am a technology nerd who has been passionate about tech my entire life. I graduated with a degree in physics, but my love for coding in college led me to continue down that path. I am dedicated to self-improvement and continuous learning. When I'm not in front of my computer, I enjoy working out and playing board games.
 
 Looking for a team where I can continue to develop my abilities. I've developed my frontend skills (HTML/CSS, React.js, TypeScript) over the past couple of years. Prior to learning full-stack, my experience was in STEM projects, mostly using Python and C++. My favorite language is the one I’ve used most recently.
 
